@@ -38,3 +38,8 @@ body {
     text-wrap: balance;
   }
 }
+
+.title {
+  font-size: 1.84rem /* 24px */;
+  line-height: 2rem;
+}
