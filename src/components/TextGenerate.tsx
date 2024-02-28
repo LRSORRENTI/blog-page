@@ -1,7 +1,7 @@
 "use client";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
 
-const words = `Luke Sorrenti's Blog
+const words = `Luke's Travel Blog
 `;
 
 export function TextGenerate() {

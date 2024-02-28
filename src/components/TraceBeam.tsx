@@ -10,7 +10,7 @@ export function TraceBeam() {
     
     <TracingBeam className="">
       <div className=" d-flex justify-center mx-auto w-[300px] sm:w-[400px] md:w-[500px] lg:w-[650px] xl:w-[800px] text-center antialiased pt-1 px-3 border-2 border-indigo-900 rounded-lg">
-        {dummyContent.map((item, index) => (
+        {TravelContent.map((item, index) => (
           <div key={`content-${index}`} className="mb-10">
             <h2 className="bg-black text-white rounded-full text-sm w-fit px-4 py-1 mb-4 opacity-0">
               {item.badge}
@@ -39,33 +39,16 @@ export function TraceBeam() {
   );
 }
 
-const dummyContent = [
+const TravelContent = [
   {
-    title: "Lorem Ipsum Dolor Sit Amet",
+    title: "Boston, Massachusetts",
     description: (
       <>
-        <p>
-          Sit duis est minim proident non nisi velit non consectetur. Esse
-          adipisicing laboris consectetur enim ipsum reprehenderit eu deserunt
-          Lorem ut aliqua anim do. Duis cupidatat qui irure cupidatat incididunt
-          incididunt enim magna id est qui sunt fugiat. Laboris do duis pariatur
-          fugiat Lorem aute sit ullamco. Qui deserunt non reprehenderit dolore
-          nisi velit exercitation Lorem qui do enim culpa. Aliqua eiusmod in
-          occaecat reprehenderit laborum nostrud fugiat voluptate do Lorem culpa
-          officia sint labore. Tempor consectetur excepteur ut fugiat veniam
-          commodo et labore dolore commodo pariatur.
+        <p className="mb-4">
+        Boston, Massachusetts, is a city steeped in history and charm. As I wandered through its cobblestone streets and historic neighborhoods, I was struck by the seamless blend of the old and the new. The city's rich past is evident in landmarks like the Freedom Trail and the historic North End, while its vibrant present is showcased in its bustling markets, contemporary art galleries, and innovative restaurants.
         </p>
         <p>
-          Dolor minim irure ut Lorem proident. Ipsum do pariatur est ad ad
-          veniam in commodo id reprehenderit adipisicing. Proident duis
-          exercitation ad quis ex cupidatat cupidatat occaecat adipisicing.
-        </p>
-        <p>
-          Tempor quis dolor veniam quis dolor. Sit reprehenderit eiusmod
-          reprehenderit deserunt amet laborum consequat adipisicing officia qui
-          irure id sint adipisicing. Adipisicing fugiat aliqua nulla nostrud.
-          Amet culpa officia aliquip deserunt veniam deserunt officia
-          adipisicing aliquip proident officia sunt.
+        The ambiance of Boston is one of intellectual curiosity and cultural richness. The presence of renowned universities and colleges contributes to a lively atmosphere filled with students, academics, and visitors from around the world. The city's green spaces, like the Boston Common and the Public Garden, offer a peaceful respite from the urban hustle and bustle. The vibe of Boston is unique—a blend of historical significance, academic prowess, and modern vitality that makes it a fascinating place to explore and experience.
         </p>
       </>
     ),
