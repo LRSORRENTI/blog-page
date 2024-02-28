@@ -4,7 +4,7 @@ import { BackBoxes } from "@/components/BackBoxes";
 import { MeteorCard } from "@/components/MeteorCard";
 export default function Home() {
   return (
-    <div className="">
+    <div className="" >
       {/* <BackBoxes/> */}
       <TraceBeam/>
     </div>

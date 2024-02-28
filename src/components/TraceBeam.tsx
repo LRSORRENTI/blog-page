@@ -7,15 +7,16 @@ import { TracingBeam } from "../components/ui/tracing-beam";
 
 export function TraceBeam() {
   return (
+    
     <TracingBeam className="">
-      <div className="max-w-2xl mx-auto antialiased pt-4 relative">
+      <div className=" d-flex justify-center mx-auto w-[300px] sm:w-[400px] md:w-[500px] lg:w-[650px] xl:w-[800px] text-center antialiased pt-4 bg-slate-700">
         {dummyContent.map((item, index) => (
           <div key={`content-${index}`} className="mb-10">
-            <h2 className="bg-black text-white rounded-full text-sm w-fit px-4 py-1 mb-4">
+            <h2 className="bg-black text-white rounded-full text-sm w-fit px-4 py-1 mb-4 opacity-0">
               {item.badge}
             </h2>
 
-            <p className=" font-Calsans text-xl mb-4">
+            <p className="font-Calsans text-xl md:text-lg text-center mx-auto mb-4">
               {item.title}
             </p>
 
@@ -68,7 +69,7 @@ const dummyContent = [
         </p>
       </>
     ),
-    badge: "React",
+    badge: "",
     image:
       "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
@@ -202,7 +203,7 @@ const dummyContent = [
           In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
           veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
           reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit.
+          cillum ut mollit11.
         </p>
       </>
     ),
