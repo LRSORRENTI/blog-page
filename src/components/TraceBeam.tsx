@@ -189,22 +189,75 @@ const TravelContent = [
       "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    title: "Lorem Ipsum Dolor Sit Amet",
+    title: " Minneapolis, Minnesota",
     description: (
       <>
-        <p>
-          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
-          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
-          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
-          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
-          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
-          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
+        <p className="mb-4 text-slate-400">
+        Minneapolis, Minnesota, is a city that blends
+        urban sophistication with natural beauty. As I
+        explored its vibrant neighborhoods, I was
+        struck by the impressive skyline, contemporary
+        architecture, and the abundance of green spaces
+        that dot the urban landscape. The city's famous
+        chain of lakes, connected by picturesque bike
+        and walking paths, offers a refreshing escape
+        from the bustling city life
+        and showcases the locals' love for the outdoors.
         </p>
-        <p>
-          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
-          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
-          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit.
+        <p className="text-slate-400">
+        The ambiance of Minneapolis is one of cultural
+        richness and dynamic energy. The city is a hub
+        for the arts, with numerous theaters, galleries,
+        and music venues that cater to a wide range of
+        tastes. The diverse culinary scene, from cozy
+        cafes to innovative restaurants, reflects the
+        city's multicultural fabric. The vibe of Minneapolis is welcoming and inclusive, with a strong sense of community and a deep appreciation for the arts and nature. Whether it's attending a live performance, indulging in culinary delights, or enjoying a leisurely stroll around the lakes, Minneapolis offers a vibrant
+        and enriching experience for all who visit.
+        </p>
+      </>
+    ),
+    badge: "Changelog",
+    image:
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
+  {
+    title: "Chicago, Illinois",
+    description: (
+      <>
+        <p className="mb-4 text-slate-400">
+        Chicago, Illinois, is a city that exudes
+        architectural grandeur and cultural depth.
+        As I navigated its bustling streets, I was
+        awestruck by the towering skyscrapers,
+        including the iconic Willis Tower,
+        that define its skyline. The city's rich
+        architectural heritage is further showcased
+        in landmarks like the Chicago Cultural
+        Center and the historic Water Tower.
+        The beauty of Chicago extends to its
+        expansive lakefront, where the shimmering
+        waters of Lake Michigan meet lush parks
+        and scenic beaches.
+        </p>
+        <p className="text-slate-400">
+        The ambiance of Chicago is one of vibrant
+        diversity and artistic expression. The city
+        is a melting pot of cultures, reflected
+        in its diverse neighborhoods, each with
+        its own unique character and cuisine. The
+        arts scene is thriving, with world-class
+        museums like the Art Institute of Chicago,
+        a dynamic theater district, and a lively
+        music scene that ranges from blues
+        to classical. The vibe of Chicago
+        is energetic and resilient, with a
+        palpable sense of pride among its
+        residents. Whether it's exploring the
+        Magnificent Mile, taking in the panoramic
+        views from a rooftop bar, or immersing oneself
+        in the rich cultural tapestry, Chicago offers
+        an unforgettable urban experience that
+        captivates the heart and mind.
         </p>
       </>
     ),
@@ -228,7 +281,55 @@ const TravelContent = [
           In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
           veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
           reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit.
+          cillum ut mollit11.
+        </p>
+      </>
+    ),
+    badge: "Changelog",
+    image:
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
+  {
+    title: "Lorem Ipsum Dolor Sit Amet",
+    description: (
+      <>
+        <p>
+          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
+          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
+          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
+          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
+          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
+          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
+        </p>
+        <p>
+          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
+          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
+          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
+          cillum ut mollit11.
+        </p>
+      </>
+    ),
+    badge: "Changelog",
+    image:
+      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  },
+  {
+    title: "Lorem Ipsum Dolor Sit Amet",
+    description: (
+      <>
+        <p>
+          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
+          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
+          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
+          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
+          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
+          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
+        </p>
+        <p>
+          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
+          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
+          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
+          cillum ut mollit11.
         </p>
       </>
     ),
