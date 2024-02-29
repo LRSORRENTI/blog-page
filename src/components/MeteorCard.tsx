@@ -24,13 +24,14 @@ export function MeteorCard() {
             </svg>
           </div> */}
 
-          <h1 className="font-bold text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-white mb-4 relative z-50 mx-auto text-center">
-            Luke's Travels
-          </h1>
+<h1 className="font-bold text-2xl md:text-3xl lg:text-4xl xl:text-5xl text-white mb-4 relative z-50 mx-auto text-center">
+  Luke&apos;s Travels
+</h1>
 
-          <p className="font-normal text-base text-slate-500 mb-4 relative z-50 text-center">
-          I'm thrilled to share my journey through the lens of my travel blog. Every step, from bustling cities to serene landscapes, is a story waiting to unfold. Join me as I explore the world's wonders, one adventure at a time. Let's embark on this journey together and discover the beauty that lies in every corner of our planet.
-          </p>
+<p className="font-normal text-base text-slate-500 mb-4 relative z-50 text-center">
+  I&apos;m thrilled to share my journey through the lens of my travel blog. Every step, from bustling cities to serene landscapes, is a story waiting to unfold. Join me as I explore the world&apos;s wonders, one adventure at a time. Let&apos;s embark on this journey together and discover the beauty that lies in every corner of our planet.
+</p>
+
 
           {/* <button className="border px-4 py-1 rounded-lg  border-gray-500 text-gray-300">
             Explore
