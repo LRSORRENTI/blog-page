@@ -179,20 +179,4 @@ const TravelContent = [
     image:
       "/imgs/EagleRiver.jpg",
   },
-  {
-    title: "Eagle River, Wisconsin",
-    description: (
-      <>
-        <p className="mb-4 text-slate-400">
-        Eagle River, Wisconsin, is a quintessential Northwoods town that embodies the serene beauty and outdoor charm of the region. Nestled among lush forests and pristine lakes, this small town is a haven for nature lovers and outdoor enthusiasts. The crystal-clear waters of the Eagle River Chain of Lakes offer endless opportunities for fishing, boating, and water sports, while the surrounding woods are perfect for hiking, biking, and wildlife watching.
-        </p>
-        <p className="text-slate-400">
-        Eagle River's feel is warm and welcoming, with a strong sense of tradition and a deep appreciation for the natural beauty that surrounds it. Whether it's exploring the great outdoors, enjoying a quiet moment by the lake, or participating in one of the town's many festivals and events, Eagle River offers a slice of Northwoods paradise that is both enchanting and rejuvenating.
-        </p>
-      </>
-    ),
-    badge: "Changelog",
-    image:
-      "/imgs/EagleRiver.jpg",
-  },
 ];
