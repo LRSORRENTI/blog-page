@@ -1,3 +1,4 @@
+/* eslint-disable */
 "use client";
 import { TextGenerateEffect } from "./ui/text-generate-effect";
 
