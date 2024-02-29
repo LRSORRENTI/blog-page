@@ -11,7 +11,7 @@ export function GlowStarCard() {
   return (
     <div className="flex py-10 items-center justify-center antialiased">
       <GlowingStarsBackgroundCard>
-      <div className="absolute top-10 opacity-70">
+      <div className="opacity-70">
         <TextGenerate/>
         <div className="">
           <GlowingStarsDescription className="opacity-80">

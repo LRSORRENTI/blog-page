@@ -22,11 +22,11 @@ export const GlowingStarsBackgroundCard = ({
         setMouseEnter(false);
       }}
       className={cn(
-        "bg-[] p-4 max-w-md max-h-[20rem] h-full w-80 text-center rounded-xl border border-indigo-800",
+        "bg-[] p-4 max-w-4xl max-h-[20rem] h-full text-center rounded-xl border w-[300px] sm:w-[400px] md:w-[500px] lg:w-[650px] xl:w-[1200px] border-indigo-800 ",
         className
       )}
     >
-      <div className="flex justify-center items-center opacity-80">
+      <div className="flex justify-center items-center opacity-60">
         <Illustration mouseEnter={mouseEnter} />
       </div>
       <div className="px-2 pb-6">{children}</div>

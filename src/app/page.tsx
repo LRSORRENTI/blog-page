@@ -7,7 +7,10 @@ import { TextGenerate } from "@/components/TextGenerate";
 export default function Home() {
   return (
     <div className="" >
-      <GlowStarCard/>
+      <div className="flex justify-center mb-8 mt-8">
+      <MeteorCard/>
+      </div>
+      {/* <GlowStarCard/> */}
       {/* <BackBoxes/> */}
       <TraceBeam/>
     </div>

@@ -9,7 +9,7 @@ export function TraceBeam() {
   return (
     
     <TracingBeam className="">
-      <div className=" d-flex justify-center mx-auto w-[300px] sm:w-[400px] md:w-[500px] lg:w-[650px] xl:w-[800px] text-center antialiased pt-1 px-3 border-2 border-indigo-900 rounded-lg">
+      <div className=" d-flex justify-center mx-auto max-w-xs sm:max-w-sm md:max-w-lg lg:max-w-2xl xl:max-w-3xl text-center antialiased pt-1 px-3 border-2 border-indigo-900 rounded-lg bg-gradient-to-b from-slate-900 to-slate-800 ">
         {TravelContent.map((item, index) => (
           <div key={`content-${index}`} className="mb-10">
             <h2 className="bg-black text-white rounded-full text-sm w-fit px-4 py-1 mb-4 opacity-0">
