@@ -56,7 +56,7 @@ const TravelContent = [
         innovative restaurants.
         </p>
         <p className=" text-slate-400">
-        The ambiance of Boston is one of intellectual 
+        The patina of Boston is one of intellectual 
         curiosity and cultural richness. The presence of 
         renowned universities and colleges contributes 
         to a lively atmosphere filled with students, 
@@ -76,81 +76,6 @@ const TravelContent = [
       "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    title: "Las Vegas, Nevada",
-    description: (
-      <>
-        <p className="mb-4 text-slate-400">
-        Las Vegas, Nevada, is a city that pulsates with
-        energy and excitement. From the moment I
-        arrived, I was swept up in the vibrant
-        atmosphere that defines this iconic destination. 
-        The dazzling lights of the Strip, the sound of 
-        slot machines in bustling casinos, and the 
-        eclectic mix of people from all corners of the globe 
-        created a sense of exhilaration and 
-        possibility. The city's unique blend of entertainment, 
-        from world-class shows and concerts to gourmet dining 
-        and luxury shopping, offered
-        an endless array of experiences to explore.
-        </p>
-        <p className="text-slate-400">
-        The ambiance of Las Vegas is like nowhere else
-        I've visited. It's a place where the ordinary fades
-        away, replaced by an extraordinary playground
-        for the senses. The city's skyline, dominated by
-        impressive hotel-casinos, each with its own
-        theme and attractions, adds to the surreal
-        feeling that permeates the air. Walking down the
-        Strip at night, surrounded by the neon glow
-        and the electric energy of the crowds, I felt
-        as though I was part of a never-ending
-        celebration. Las Vegas is truly a city that
-        never sleeps, and its vibrant vibe is
-        infectious, leaving
-        visitors with memories that last a lifetime.
-        </p>
-      </>
-    ),
-    badge: "Changelog",
-    image:
-      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  },
-  {
-    title: "Myrtle Beach, South Carolina",
-    description: (
-      <>
-        <p className="mb-4 text-slate-400">
-        Myrtle Beach, South Carolina, is a coastal 
-        paradise that exudes a laid-back, beachy vibe. 
-        The moment I set foot on its soft, sandy shores, 
-        I was greeted by the soothing sound of waves 
-        crashing against the beach and the warm embrace 
-        of the sun. The city's famous oceanfront 
-        boardwalk, lined with shops, restaurants, and 
-        amusement attractions, offers a lively and
-        family-friendly atmosphere that's hard to resist.
-        </p>
-        <p className="text-slate-400">
-        The ambiance of Myrtle Beach is all about
-        relaxation and fun in the sun. Whether it's
-        lounging on the beach, playing a round of golf
-        at one of the many courses, or exploring the
-        natural beauty of the surrounding area,
-        there's a sense of leisure and enjoyment
-        that permeates the air. The city comes alive
-        at night with live music, seafood feasts,
-        and colorful fireworks displays. Myrtle Beach
-        is a destination that invites visitors to
-        unwind, indulge,
-        and create lasting memories by the sea.
-        </p>
-      </>
-    ),
-    badge: "Launch Week",
-    image:
-      "https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=3506&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  },
-  {
     title: "Key West, Florida",
     description: (
       <>
@@ -168,7 +93,7 @@ const TravelContent = [
         step into a postcard.
         </p>
         <p className="text-slate-400">
-        The ambiance of Key West is one of carefree 
+        The mood of Key West is one of carefree 
         relaxation and creative inspiration. The city's
         history as a haven for writers and artists
         is palpable, with its quirky art galleries,
@@ -188,31 +113,16 @@ const TravelContent = [
     image:
       "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
+ 
   {
-    title: " Minneapolis, Minnesota",
+    title: "Memphis, Tennessee",
     description: (
       <>
         <p className="mb-4 text-slate-400">
-        Minneapolis, Minnesota, is a city that blends
-        urban sophistication with natural beauty. As I
-        explored its vibrant neighborhoods, I was
-        struck by the impressive skyline, contemporary
-        architecture, and the abundance of green spaces
-        that dot the urban landscape. The city's famous
-        chain of lakes, connected by picturesque bike
-        and walking paths, offers a refreshing escape
-        from the bustling city life
-        and showcases the locals' love for the outdoors.
+        Memphis, Tennessee, is a city that resonates with the soulful rhythms of blues, rock 'n' roll, and soul music. As I walked down Beale Street, the vibrant heart of Memphis' music scene, I was enveloped in the sounds of live music emanating from historic clubs and bars, each telling a story of the city's musical legacy. The spirit of Elvis Presley looms large, with Graceland offering a pilgrimage site for fans of the King of Rock 'n' Roll.
         </p>
         <p className="text-slate-400">
-        The ambiance of Minneapolis is one of cultural
-        richness and dynamic energy. The city is a hub
-        for the arts, with numerous theaters, galleries,
-        and music venues that cater to a wide range of
-        tastes. The diverse culinary scene, from cozy
-        cafes to innovative restaurants, reflects the
-        city's multicultural fabric. The vibe of Minneapolis is welcoming and inclusive, with a strong sense of community and a deep appreciation for the arts and nature. Whether it's attending a live performance, indulging in culinary delights, or enjoying a leisurely stroll around the lakes, Minneapolis offers a vibrant
-        and enriching experience for all who visit.
+        The atmosphere of Memphis is one of charm and historical depth. The city played a pivotal role in the civil rights movement, and the National Civil Rights Museum at the Lorraine Motel provides a profound and moving insight into this important chapter of American history. The vibe of Memphis is warm and welcoming, with a strong sense of community and a deep appreciation for its cultural heritage. Whether it's savoring the flavors of authentic barbecue, exploring the banks of the Mississippi River, or soaking in the rich musical heritage, Memphis offers a unique and enriching experience that stays with you long after you leave.
         </p>
       </>
     ),
@@ -221,43 +131,14 @@ const TravelContent = [
       "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    title: "Chicago, Illinois",
+    title: "Negril, Jamaica",
     description: (
       <>
         <p className="mb-4 text-slate-400">
-        Chicago, Illinois, is a city that exudes
-        architectural grandeur and cultural depth.
-        As I navigated its bustling streets, I was
-        awestruck by the towering skyscrapers,
-        including the iconic Willis Tower,
-        that define its skyline. The city's rich
-        architectural heritage is further showcased
-        in landmarks like the Chicago Cultural
-        Center and the historic Water Tower.
-        The beauty of Chicago extends to its
-        expansive lakefront, where the shimmering
-        waters of Lake Michigan meet lush parks
-        and scenic beaches.
+        Negril, Jamaica, is a tropical paradise that embodies the laid-back spirit and natural beauty of the Caribbean. As I wandered along the famous Seven Mile Beach, I was mesmerized by the pristine white sand and the crystal-clear turquoise waters that stretched as far as the eye could see. The rugged cliffs of the West End, with their dramatic ocean views and stunning sunsets, added to the allure of this idyllic destination.
         </p>
         <p className="text-slate-400">
-        The ambiance of Chicago is one of vibrant
-        diversity and artistic expression. The city
-        is a melting pot of cultures, reflected
-        in its diverse neighborhoods, each with
-        its own unique character and cuisine. The
-        arts scene is thriving, with world-class
-        museums like the Art Institute of Chicago,
-        a dynamic theater district, and a lively
-        music scene that ranges from blues
-        to classical. The vibe of Chicago
-        is energetic and resilient, with a
-        palpable sense of pride among its
-        residents. Whether it's exploring the
-        Magnificent Mile, taking in the panoramic
-        views from a rooftop bar, or immersing oneself
-        in the rich cultural tapestry, Chicago offers
-        an unforgettable urban experience that
-        captivates the heart and mind.
+        The town of Negril is one of relaxed bliss and natural harmony. The town's vibe is characterized by its friendly locals, reggae music, and a carefree lifestyle that invites visitors to slow down and savor the moment. The ocean offers a playground for water sports, from snorkeling and scuba diving to explore the vibrant coral reefs, to sailing and kayaking along the serene coastline. The cuisine in Negril, with its flavorful jerk spices and fresh seafood, is a delight for the senses. Whether it's lounging on the beach, exploring the natural beauty of the surrounding area, or dancing the night away to reggae beats, Negril offers a slice of paradise that captivates the soul.
         </p>
       </>
     ),
@@ -266,22 +147,14 @@ const TravelContent = [
       "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    title: "Lorem Ipsum Dolor Sit Amet",
+    title: "Boise, Idaho",
     description: (
       <>
-        <p>
-          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
-          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
-          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
-          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
-          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
-          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
+        <p className="mb-4 text-slate-400">
+        Boise, Idaho, is a city that seamlessly blends urban sophistication with outdoor adventure. As I explored its vibrant downtown, I was impressed by the array of boutique shops, artisanal coffeehouses, and farm-to-table restaurants that reflect the city's growing culinary scene. The Boise River, flowing through the heart of the city, adds a sense of tranquility and offers opportunities for kayaking, fishing, and riverside strolls.
         </p>
-        <p>
-          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
-          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
-          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit11.
+        <p className="text-slate-400">
+        Boise's vibe is down-to-earth and welcoming, making it a hidden gem in the Pacific Northwest. Whether it's exploring the vibrant downtown, enjoying the great outdoors, or experiencing the local culture, Boise offers a unique and enriching experience that leaves a lasting impression.
         </p>
       </>
     ),
@@ -290,70 +163,14 @@ const TravelContent = [
       "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
   },
   {
-    title: "Lorem Ipsum Dolor Sit Amet",
+    title: "Eagle River, Wisconsin",
     description: (
       <>
-        <p>
-          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
-          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
-          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
-          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
-          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
-          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
+        <p className="mb-4 text-slate-400">
+        Eagle River, Wisconsin, is a quintessential Northwoods town that embodies the serene beauty and outdoor charm of the region. Nestled among lush forests and pristine lakes, this small town is a haven for nature lovers and outdoor enthusiasts. The crystal-clear waters of the Eagle River Chain of Lakes offer endless opportunities for fishing, boating, and water sports, while the surrounding woods are perfect for hiking, biking, and wildlife watching.
         </p>
-        <p>
-          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
-          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
-          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit11.
-        </p>
-      </>
-    ),
-    badge: "Changelog",
-    image:
-      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  },
-  {
-    title: "Lorem Ipsum Dolor Sit Amet",
-    description: (
-      <>
-        <p>
-          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
-          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
-          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
-          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
-          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
-          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
-        </p>
-        <p>
-          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
-          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
-          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit11.
-        </p>
-      </>
-    ),
-    badge: "Changelog",
-    image:
-      "https://images.unsplash.com/photo-1519681393784-d120267933ba?auto=format&fit=crop&q=80&w=3540&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  },
-  {
-    title: "Lorem Ipsum Dolor Sit Amet",
-    description: (
-      <>
-        <p>
-          Ex irure dolore veniam ex velit non aute nisi labore ipsum occaecat
-          deserunt cupidatat aute. Enim cillum dolor et nulla sunt exercitation
-          non voluptate qui aliquip esse tempor. Ullamco ut sunt consectetur
-          sint qui qui do do qui do. Labore laborum culpa magna reprehenderit ea
-          velit id esse adipisicing deserunt amet dolore. Ipsum occaecat veniam
-          commodo proident aliqua id ad deserunt dolor aliquip duis veniam sunt.
-        </p>
-        <p>
-          In dolore veniam excepteur eu est et sunt velit. Ipsum sint esse
-          veniam fugiat esse qui sint ad sunt reprehenderit do qui proident
-          reprehenderit. Laborum exercitation aliqua reprehenderit ea sint
-          cillum ut mollit11.
+        <p className="text-slate-400">
+        Eagle River's feel is warm and welcoming, with a strong sense of tradition and a deep appreciation for the natural beauty that surrounds it. Whether it's exploring the great outdoors, enjoying a quiet moment by the lake, or participating in one of the town's many festivals and events, Eagle River offers a slice of Northwoods paradise that is both enchanting and rejuvenating.
         </p>
       </>
     ),
