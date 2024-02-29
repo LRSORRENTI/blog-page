@@ -97,7 +97,7 @@ export const TracingBeam = ({
       aria-hidden="true"
     >
           <motion.path
-            d={`M 1 0V -36 l 18 24 V ${svgHeight * 0.3} l -18 34V ${svgHeight}`}
+            d={`M 1 0V -36 l 18 24 V ${svgHeight} l -18 34V ${svgHeight}`}
             fill="none"
             stroke="#9091A0"
             strokeOpacity="0.16"
