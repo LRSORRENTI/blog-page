@@ -1,13 +1,13 @@
 import Image from "next/image";
-import { TraceBeam } from "@/components/TraceBeam";
+import { TraceBeams } from "@/components/TraceBeams";
 import { MeteorCard } from "@/components/MeteorCard";
 export default function Home() {
   return (
     <div className="" >
       <div className="flex justify-center mb-8 mt-8">
-      <MeteorCard/>
+        <MeteorCard />
       </div>
-      <TraceBeam/>
+      <TraceBeams />
     </div>
   );
 }
